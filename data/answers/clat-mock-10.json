@@ -1,0 +1,378 @@
+{
+ "25": {
+  "answer": "b",
+  "explanation": "The passage describes dual codenames: the US 'Operation Epic Fury' and a second name implying foundational ambition. Reports name Israel's part 'Lion's Roar', so the mock's 'Genesis' is unconfirmed.",
+  "sources": [
+   {
+    "title": "The Aviationist: Khamenei killed (28 Feb 2026)",
+    "url": "https://theaviationist.com/2026/02/28/khamenei-killed/"
+   }
+  ],
+  "status": "needs_review",
+  "note": "US codename Epic Fury confirmed; 'Operation Genesis' as second name not confirmed (Israeli op reported as Lion's Roar)."
+ },
+ "26": {
+  "answer": "d",
+  "explanation": "The passage lists Iranian retaliation hitting US facilities in Qatar (Al Udeid), Bahrain (NSA, Fifth Fleet), the UAE (Al Dhafra) and Türkiye (Incirlik).",
+  "sources": [
+   {
+    "title": "Passage-based"
+   }
+  ],
+  "status": "needs_review",
+  "note": "Whether Incirlik was actually targeted (vs debris) not independently confirmed."
+ },
+ "27": {
+  "answer": "a",
+  "explanation": "Hormuz is the Gulf's only sea outlet, lies between Iran and Oman (Musandam) and the UAE, and is about 55–95 km wide. It leads to the Gulf of Oman and Arabian Sea, not the Red Sea.",
+  "sources": [
+   {
+    "title": "Wikipedia: Strait of Hormuz",
+    "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+   }
+  ],
+  "status": "verified"
+ },
+ "28": {
+  "answer": "a",
+  "explanation": "The Tigris and Euphrates meet as the Shatt al-Arab, which enters the Persian Gulf.",
+  "sources": [
+   {
+    "title": "Wikipedia: Shatt al-Arab",
+    "url": "https://en.wikipedia.org/wiki/Shatt_al-Arab"
+   }
+  ],
+  "status": "verified"
+ },
+ "29": {
+  "answer": "b",
+  "explanation": "Hezbollah fired rockets from Lebanon across the Blue Line in support of Iran.",
+  "sources": [
+   {
+    "title": "Wikipedia: Hezbollah",
+    "url": "https://en.wikipedia.org/wiki/Hezbollah"
+   }
+  ],
+  "status": "verified"
+ },
+ "30": {
+  "answer": "b",
+  "explanation": "Ayatollah Ali Khamenei was killed in the 28 February 2026 strike.",
+  "sources": [
+   {
+    "title": "NPR: Iran's supreme leader Ayatollah Ali Khamenei has been killed",
+    "url": "https://www.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump"
+   }
+  ],
+  "status": "verified"
+ },
+ "31": {
+  "answer": "b",
+  "explanation": "Amaravati Quantum Valley (Andhra Pradesh, not Hyderabad) is to host IBM's Quantum System Two, billed as India's first 133-qubit (Heron) system. It is a public–private project of the AP government with IBM, TCS and L&T.",
+  "sources": [
+   {
+    "title": "Wikipedia: Amaravati Quantum Valley",
+    "url": "https://en.wikipedia.org/wiki/Amaravati_Quantum_Valley"
+   }
+  ],
+  "status": "verified"
+ },
+ "32": {
+  "answer": "c",
+  "explanation": "The NQM has four Thematic Hubs (computing, communication, sensing & metrology, materials & devices).",
+  "sources": [
+   {
+    "title": "DST: National Quantum Mission",
+    "url": "https://dst.gov.in/national-quantum-mission-nqm"
+   }
+  ],
+  "status": "verified"
+ },
+ "33": {
+  "answer": "b",
+  "explanation": "Government, academia and industry together make up the Triple Helix model of innovation.",
+  "sources": [
+   {
+    "title": "Wikipedia: Triple helix model of innovation",
+    "url": "https://en.wikipedia.org/wiki/Triple_helix_model_of_innovation"
+   }
+  ],
+  "status": "verified"
+ },
+ "34": {
+  "answer": "c",
+  "explanation": "MeitY set up its Quantum Computing Applications Lab with Amazon Web Services (2021).",
+  "sources": [
+   {
+    "title": "PIB: MeitY Quantum Computing Applications Lab (2021)",
+    "url": "https://pib.gov.in/"
+   }
+  ],
+  "status": "verified"
+ },
+ "35": {
+  "answer": "b",
+  "explanation": "IISc Bengaluru leads the NQM quantum-computing hub.",
+  "sources": [
+   {
+    "title": "DST: National Quantum Mission T-Hubs",
+    "url": "https://dst.gov.in/national-quantum-mission-nqm"
+   }
+  ],
+  "status": "verified"
+ },
+ "36": {
+  "answer": "c",
+  "explanation": "Quantum Valley's industry partners are IBM, TCS and L&T. Infosys is not one of them.",
+  "sources": [
+   {
+    "title": "Wikipedia: Amaravati Quantum Valley",
+    "url": "https://en.wikipedia.org/wiki/Amaravati_Quantum_Valley"
+   }
+  ],
+  "status": "verified"
+ },
+ "37": {
+  "answer": "c",
+  "explanation": "Article 279 defines 'net proceeds' as certified by the CAG.",
+  "sources": [
+   {
+    "title": "Constitution of India, Article 279"
+   }
+  ],
+  "status": "verified"
+ },
+ "38": {
+  "answer": "a",
+  "explanation": "The 16th FC dropped revenue-deficit, sector-specific and State-specific grants, keeping grants for local bodies and disaster management.",
+  "options": [
+   "1, 2 and 3 only",
+   "1 and 4 only",
+   "2, 3 and 4 only",
+   "1, 2, 3 and 4"
+  ],
+  "sources": [
+   {
+    "title": "16th Finance Commission Report (2026)"
+   }
+  ],
+  "status": "verified",
+  "question": "The 16th Finance Commission has recommended grants totalling ₹9.47 lakh crore over the five- year period. Which of the following categories of grants has been DISCONTINUED compared to the 15th Finance Commission? 1. Revenue deficit grants 2. Sector-specific grants 3. State-specific grants 4. Disaster management grants"
+ },
+ "39": {
+  "answer": "b",
+  "explanation": "The 16th FC measures demographic performance by population growth between 1971 and 2011.",
+  "sources": [
+   {
+    "title": "16th Finance Commission Report (2026)"
+   }
+  ],
+  "status": "verified"
+ },
+ "40": {
+  "answer": "b",
+  "explanation": "Chairman Arvind Panagariya was the first Vice-Chairman of NITI Aayog.",
+  "sources": [
+   {
+    "title": "Wikipedia: Arvind Panagariya",
+    "url": "https://en.wikipedia.org/wiki/Arvind_Panagariya"
+   }
+  ],
+  "status": "verified",
+  "question": "Which of the following institutions is associated with the Chairman of the 16th Finance Commission?"
+ },
+ "41": {
+  "answer": "c",
+  "explanation": "The 16th FC suggests capping States' fiscal deficits at 3% of GSDP.",
+  "sources": [
+   {
+    "title": "16th Finance Commission Report (2026)"
+   }
+  ],
+  "status": "verified"
+ },
+ "42": {
+  "answer": "b",
+  "explanation": "Article 19(4) allows reasonable restrictions on the right to form associations in the interest of sovereignty and integrity, public order or morality.",
+  "options": [
+   "Article 19(2)",
+   "Article 19(4)",
+   "Article 19(5)",
+   "Article 19(6)"
+  ],
+  "sources": [
+   {
+    "title": "Constitution of India, Article 19(4)"
+   }
+  ],
+  "status": "verified"
+ },
+ "43": {
+  "answer": "b",
+  "explanation": "The 2019 amendment lets the NIA Director-General approve property seizure without State consent.",
+  "options": [
+   "Central Bureau of Investigation (CBI)",
+   "National Investigation Agency (NIA)",
+   "Research and Analysis Wing (RAW)",
+   "Enforcement Directorate (ED)"
+  ],
+  "sources": [
+   {
+    "title": "UAPA (Amendment) Act, 2019"
+   }
+  ],
+  "status": "verified"
+ },
+ "44": {
+  "answer": "b",
+  "explanation": "The 2004 amendment (UPA government) made 'terrorist act' a distinct category after POTA was repealed.",
+  "sources": [
+   {
+    "title": "Wikipedia: Unlawful Activities (Prevention) Act",
+    "url": "https://en.wikipedia.org/wiki/Unlawful_Activities_(Prevention)_Act"
+   }
+  ],
+  "status": "verified",
+  "question": "Which amendment to the UAPA first introduced terrorism as a distinct legal category within the Act?"
+ },
+ "45": {
+  "answer": "b",
+  "explanation": "The Court used a proportionality-style distinction between 'architect' roles and facilitators in deciding bail.",
+  "sources": [
+   {
+    "title": "Passage-based"
+   }
+  ],
+  "status": "verified"
+ },
+ "46": {
+  "answer": "b",
+  "explanation": "It distinguished Union of India v. K.A. Najeeb (2021), which allowed bail for prolonged incarceration under UAPA.",
+  "options": [
+   "Zahoor Ahmad Shah Watali case",
+   "K.A. Najeeb case",
+   "Kartar Singh case",
+   "Romesh Thappar case"
+  ],
+  "sources": [
+   {
+    "title": "Union of India v. K.A. Najeeb (2021)"
+   }
+  ],
+  "status": "verified"
+ },
+ "47": {
+  "answer": "b",
+  "explanation": "Section 15 of the UAPA defines a 'terrorist act'.",
+  "sources": [
+   {
+    "title": "Unlawful Activities (Prevention) Act, 1967, Section 15"
+   }
+  ],
+  "status": "verified"
+ },
+ "48": {
+  "answer": "b",
+  "explanation": "India's Montreux Record sites are Keoladeo National Park and Loktak Lake. Chilika was removed in 2002.",
+  "options": [
+   "1 and 2 only",
+   "2 and 3 only",
+   "1 and 4 only",
+   "3 and 4 only"
+  ],
+  "sources": [
+   {
+    "title": "Wikipedia: Montreux Record",
+    "url": "https://en.wikipedia.org/wiki/Montreux_Record"
+   }
+  ],
+  "status": "verified",
+  "question": "Which of the following Indian Ramsar Sites are included in the Montreux Record? 1. Chilika Lake 2. Keoladeo Ghana National Park 3. Loktak Lake 4. Sundarban Wetland"
+ },
+ "49": {
+  "answer": "c",
+  "question": "Which of the following is the smallest Ramsar Site in India by area?",
+  "options": [
+   "Vedanthangal Bird Sanctuary",
+   "Nanda Lake",
+   "Renuka Lake",
+   "Udhayamarthandapuram Bird Sanctuary"
+  ],
+  "explanation": "Renuka Lake in Himachal Pradesh (about 0.2 sq km), in the Himalayan foothills, is the smallest Ramsar site the passage refers to.",
+  "sources": [
+   {
+    "title": "Wikipedia: Renuka Lake",
+    "url": "https://en.wikipedia.org/wiki/Renuka_Lake"
+   }
+  ],
+  "status": "verified"
+ },
+ "50": {
+  "answer": "c",
+  "question": "Which of the following wetlands is famous for its unique floating islands known as “phumdis”?",
+  "options": [
+   "Pulicat Lake",
+   "Rudrasagar Lake",
+   "Loktak Lake",
+   "Chilika Lake"
+  ],
+  "explanation": "Loktak Lake in Manipur has floating phumdis, including Keibul Lamjao, the world's only floating national park (home of the sangai deer).",
+  "sources": [
+   {
+    "title": "Wikipedia: Loktak Lake",
+    "url": "https://en.wikipedia.org/wiki/Loktak_Lake"
+   }
+  ],
+  "status": "verified"
+ },
+ "51": {
+  "answer": "c",
+  "question": "With reference to the newly added Ramsar sites, which of the following statements is correct? 1. Chhari-Dhand is Gujarat’s only Conservation Reserve. 2. Patna Bird Sanctuary is located in Etah district of Uttar Pradesh.",
+  "options": [
+   "1 only",
+   "2 only",
+   "Both 1 and 2",
+   "Neither 1 nor 2"
+  ],
+  "explanation": "Chhari-Dhand (Kutch) was declared Gujarat's first conservation reserve, and Patna Bird Sanctuary is in Etah, UP. Both were designated Ramsar sites in early 2026.",
+  "sources": [
+   {
+    "title": "Wikipedia: Chhari-Dhand Wetland Conservation Reserve",
+    "url": "https://en.wikipedia.org/wiki/Chhari-Dhand_Wetland_Conservation_Reserve"
+   }
+  ],
+  "status": "needs_review",
+  "note": "Statement 1 says 'only' conservation reserve; sources describe it as Gujarat's first — confirm whether it is still the only one."
+ },
+ "52": {
+  "answer": "b",
+  "explanation": "World Wetlands Day, 2 February, marks the adoption of the Ramsar Convention (1971).",
+  "options": [
+   "1st February",
+   "2nd February",
+   "5th June",
+   "22nd March"
+  ],
+  "sources": [
+   {
+    "title": "Wikipedia: World Wetlands Day",
+    "url": "https://en.wikipedia.org/wiki/World_Wetlands_Day"
+   }
+  ],
+  "status": "verified"
+ },
+ "_passages": {
+  "1": {
+   "title": "",
+   "text": "The National Quantum Mission represents a significant milestone in India’s quest to emerge as a key player in frontier technologies. Launched with an outlay of over ₹6,000 crore, the initiative seeks to build indigenous capabilities across quantum computing, communication, sensing, and materials development. By establishing specialized centres at premier academic institutions, the mission aims to foster an ecosystem that bridges fundamental research with practical applications in cryptography, healthcare, and climate modelling.\n\nA notable development under this umbrella is the proposed Quantum Valley project in Andhra Pradesh, envisioned as a hub for cutting-edge research and industry collaboration. The project exemplifies a collaborative innovation model involving government, academia, and leading technology firms. It is expected to accelerate the development of scalable quantum processors, with ambitious targets for qubit systems in the coming years.\n\nComplementing this, the government has partnered with global technology companies to provide researchers access to cloud-based quantum platforms, while simultaneously promoting domestic startups and indigenous language models. Earlier programmes such as QuEST have laid the groundwork, but the current mission adopts a more structured approach with clearly defined verticals and measurable outcomes.\n\nCritics argue that success will depend on addressing challenges such as talent retention, adequate funding for basic research, and protection of intellectual property. Nevertheless, the mission aligns with India’s broader goal of technological self-reliance and positions the country to compete in the emerging quantum economy, where leadership in this domain could redefine global strategic balances in the coming decade."
+  },
+  "3": {
+   "title": "",
+   "text": "The Supreme Court's refusal to grant bail in the Delhi communal violence conspiracy case — involving former university students and activists charged under India's primary anti-terrorism statute — has crystallized a profound doctrinal shift toward what legal scholars term security- centric jurisprudence, where the sanctity of individual liberty under Article 21 yields to statutory constraints during national security prosecutions. The bench applied a proportionality framework distinguishing between accused persons occupying architect-level roles within the alleged conspiracy and those functioning as subsidiary facilitators, holding that identical charges do not mandate identical bail outcomes — a departure from the conventional \"bail is the rule\" principle. Central to this reasoning was the statute's definition of terrorist acts under a broadly drafted provision encompassing threats to sovereignty through \"any other means,\" language critics have persistently condemned as constitutionally vague. The law itself has undergone four transformative amendments since its original enactment targeting unlawful activities threatening India's integrity: the first introduced terrorism as a standalone legal category under the earlier United Progressive Alliance dispensation; subsequent modifications broadened definitional scope, shifted evidentiary burdens onto the accused, and extended custodial periods: while the most recent, enacted during the current administration, empowered the national counter-terrorism investigation agency to seize properties unilaterally without state government concurrence — overriding federalism principles and provoking fierce Centre-state friction. Crucially, the court distinguished its reasoning from a previous judgment recognizing exceptional bail relief for prolonged incarceration, insisting that delay alone cannot override statutory embargo when national security remains imperilled. However, the ruling's acceptance of prosecution narratives at face value during bail hearings, without rigorous evidentiary scrutiny, risks transforming pre-trial detention into de facto punishment — a concern particularly acute given India's already overwhelming undertrial population comprising nearly three-quarters of all prisoners nationwide."
+  },
+  "4": {
+   "title": "",
+   "text": "India's wetland conservation architecture, anchored in a landmark intergovernmental treaty signed in an Iranian Caspian city during the early seventies, has expanded to nearly a hundred designated sites of international importance, with two additional sanctuaries recently inducted ahead of the annual observance commemorating the convention's adoption. Among the country's 98 wetlands, the smallest recognized wetland, nestled in the Himalayan foothills and measuring barely two-tenths of a square kilometre, demonstrates that ecological significance defies geographical scale, while the Sundarbans mangrove complex spanning over four thousand square kilometres represents the continental apex. However, the global register of ecologically threatened sites — maintained under a specific convention mechanism cataloguing wetlands undergoing or facing anthropogenic degradation — contains only two Indian entries: a Rajasthan sanctuary afflicted by water scarcity and unbalanced grazing pressures since the early nineties, and a northeastern freshwater expanse plagued by pollution and human encroachment, globally renowned for its remarkable floating biomass islands sustaining the world's sole aquatic national park housing an endangered cervine species. Among the newest inductees, a seasonal saline expanse in arid region expanding dramatically during monsoon serves as a critical migratory flyway hosting thirty thousand common cranes and threatened waders, while a diminutive sanctuary within an agricultural landscape document nearly one hundred eighty avian species despite occupying barely one square kilometre. The Ramsar Convention's inclusive definition — encompassing rice paddies, reservoirs, peatlands, and coral reefs alongside traditional marshes — reflects evolving ecological understanding, though India's urban wetland destruction and encroachment patterns continue generating developmental tensions demanding urgent regulatory intervention."
+  }
+ }
+}
